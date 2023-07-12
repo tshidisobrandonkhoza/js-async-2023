@@ -1,0 +1,28 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Elangeni Lodge",
+            "date": "14 Jun 2023",
+            "location": "Mpumalanga, Nkomazi"
+        },
+        {
+            "id": 2,
+            "title": "Easter Sunday",
+            "date": "18 Jun 2023",
+            "location": "Mpumalanga, Nkomazi"
+        },
+        {
+            "id": 3,
+            "title": "Elangeni Lodge",
+            "date": "14 Nov 2023",
+            "location": "Mpumalanga, Nkomazi"
+        },
+        {
+            "id": 2,
+            "title": "Easter Sunday",
+            "date": "18 Dec 2023",
+            "location": "Mpumalanga, Nkomazi"
+        }
+    ]
+}
