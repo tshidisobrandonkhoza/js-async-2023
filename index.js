@@ -15,7 +15,10 @@ const request = async (resources) => {
     let dataOb = await response.json();
     return dataOb;
 };
-const req = request(url)
+
+
+
+const req = request(localurl)
     .then(requestData => { console.log('success', requestData) })
     .catch(err => { console.log('failed: ', err.message) });
 console.log(req);
